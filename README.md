@@ -1,8 +1,24 @@
 # Open-LMX Platform
 
-Open-LMX Platform is the service layer built on top of the Open-LMX Foundation.
+Open-LMX Platform is the commercial platform built on top of the open source Open-LMX Foundation.
 
-It operationalizes the open and interoperable education-to-employment model for learning, skills, assessment, certification, credentials, recruitment, hiring, growth, and career progression.
+Open-LMX follows an **open core model**.
+
+The foundation remains open source and defines the common language, schemas, data models, governance principles, and interoperability contracts for education, training, learning, skills, certification, credentials, recruitment, hiring, growth, and career progression.
+
+The platform commercializes that foundation through hosted services, enterprise workflows, governance, integrations, analytics, verification, support, and managed operations.
+
+## Open Core Model
+
+```text
+Open-LMX Foundation
+  = open source common operating model
+  = schemas, vocabulary, data models, governance, reference standards
+
+Open-LMX Platform
+  = commercial implementation
+  = services, APIs, workflows, integrations, analytics, verification, enterprise governance
+```
 
 ## Mission
 
@@ -58,14 +74,15 @@ Career Progression
 Trust
 ```
 
-## Core Services
+## Commercial Platform Services
 
+- Hosted Open-LMX registry
 - Knowledge graph service
 - Learning catalog service
 - Skill and competency service
 - Assessment service
 - Credential service
-- Learner profile service
+- Learner skill passport
 - Employer profile service
 - Role and job model service
 - Work readiness service
@@ -73,6 +90,9 @@ Trust
 - Career progression service
 - Trust and verification service
 - Governance and audit service
+- Enterprise integrations
+- Analytics and reporting
+- Managed operations and support
 
 ## Relationship to Foundation
 
@@ -83,7 +103,7 @@ open-lmx/foundation
 ```
 
 Foundation defines the common language.  
-Platform operationalizes it as services, APIs, workflows, and user experiences.
+Platform operationalizes it as services, APIs, workflows, user experiences, enterprise controls, and managed services.
 
 ## Status
 
